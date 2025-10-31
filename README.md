@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rezwan! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Rezwan! <br/><a href="www.linkedin.com/in/rezwan-islam-a26a57229">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
