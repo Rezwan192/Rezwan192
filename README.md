@@ -9,11 +9,11 @@
   - [Creating a Laptop API](https://github.com/Rezwan192/GamingLaptopAPI)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:&nbsp;
+<a href="https://www.linkedin.com/in/rezwan-islam-a26a57229" target="_blank">
+  <img align="center" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png"/>
+</a>
+</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: www.linkedin.com/in/rezwan-islam-a26a57229
 
