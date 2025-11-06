@@ -4,6 +4,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Rezwan192/Azure-SOC)
+  - [Writing Case Studies on Security Incidents and Breaches]
  
 - <b>Coding Projects</b>
   - [Creating a Laptop API](https://github.com/Rezwan192/GamingLaptopAPI)
